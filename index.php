@@ -1,4 +1,3 @@
 <?php
 
-require 'vendor/autoload.php';
-print 'hello';
+print('hello world');
